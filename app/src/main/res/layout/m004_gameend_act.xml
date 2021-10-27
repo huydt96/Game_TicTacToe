@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/img_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:text="@string/txt_you_lost"
+        android:textColor="@color/yellow"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_playagain"
+        android:layout_width="match_parent"
+        android:text="@string/txt_play_again"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:layout_marginTop="50dp"
+        android:padding="15dp"
+        android:layout_marginHorizontal="50dp"
+        android:background="@drawable/bg_btn_playgame"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_exitgame"
+        android:layout_width="match_parent"
+        android:text="@string/txt_exit"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:padding="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="50dp"
+        android:background="@drawable/bg_btn_exitgame"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

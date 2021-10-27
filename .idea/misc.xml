@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HUY/Demo_GameTicTacToe/app/src/main/res/layout/m001_home_act.xml" value="0.30324074074074076" />
+        <entry key="..\:/TechJA/Project/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/act_main.xml" value="0.30324074074074076" />
+        <entry key="..\:/TechJA/Project/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m000_splash_frg.xml" value="0.30324074074074076" />
+        <entry key="..\:/TechJA/Project/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m001_home_act.xml" value="0.30324074074074076" />
+        <entry key="..\:/TechJA/Project/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m002_userinfo_act.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_btn_exitgame.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_btn_playgame.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_hint.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_main.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_xo.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/drawable/bg_xo_click.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/activity_main.xml" value="0.32447916666666665" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/gameend_act.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/gameplay_act.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/home_act.xml" value="0.25" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m001_home_act.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m002_userinfo_act.xml" value="0.22128378378378377" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m003_gameplay_act.xml" value="0.30324074074074076" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/m004_gameend_act.xml" value="0.1" />
+        <entry key="..\:/Users/Fake/AndroidStudioProjects/BTTechJA_GameTicTacToe/app/src/main/res/layout/userinfo_act.xml" value="0.3411458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

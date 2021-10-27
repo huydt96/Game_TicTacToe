@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_main"
+    android:orientation="vertical"
+    tools:context=".view.Fragment.M001HomeFrg">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:paddingHorizontal="40dp"
+        android:src="@drawable/img_logo_2"
+        tools:ignore="ContentDescription" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:id="@+id/iv_player1"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:padding="15dp"
+                android:src="@drawable/ic_x"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/tv_player1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/txt_computer"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:id="@+id/iv_player2"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:padding="15dp"
+                android:src="@drawable/ic_o"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/tv_player2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_computer"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </TableRow>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="@drawable/bg_hint"
+        android:orientation="vertical">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_1"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginHorizontal="10dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_3"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_4"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_5"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginHorizontal="10dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_7"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_8"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginHorizontal="10dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+
+            <ImageView
+                android:id="@+id/iv_9"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/bg_xo"
+                android:contentDescription="@string/txt_null"
+                android:padding="10dp" />
+        </TableRow>
+
+    </LinearLayout>
+</LinearLayout>

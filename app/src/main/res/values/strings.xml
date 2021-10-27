@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTTechJA_GameTicTacToe</string>
+    <string name="txt_play_game">PLAY GAME</string>
+    <string name="txt_enter_your_name">Enter your name</string>
+    <string name="txt_pick_your_side">Pick your side</string>
+    <string name="txt_computer">Computer</string>
+    <string name="txt_you_lost">YOU LOST</string>
+    <string name="txt_play_again">PLAY AGAIN</string>
+    <string name="txt_exit">EXIT GAME</string>
+    <string name="txt_null">null</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingHorizontal="50dp"
+    android:background="@drawable/bg_main"
+    tools:context=".view.Fragment.M001HomeFrg">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/img_logo_1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-80dp"
+        android:paddingHorizontal="50dp"
+        tools:ignore="ContentDescription" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_playgame"
+        android:layout_width="match_parent"
+        android:text="@string/txt_play_game"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:padding="15dp"
+        android:background="@drawable/bg_btn_playgame"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
